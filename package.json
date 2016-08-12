@@ -1,0 +1,13 @@
+{
+  "name": "speed-test",
+  "version": "0.1.0",
+  "description": "WebSocket speed test",
+  "main": "server.js",
+  "author": "Werner Ackermann",
+  "license": "ISC",
+  "engines" : { "node" : ">=6.0.0" },
+  "dependencies": {
+    "lodash": "^4.14.2",
+    "ws": "^1.1.1"
+  }
+}
